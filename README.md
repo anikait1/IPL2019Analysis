@@ -2,7 +2,7 @@
 Data Analysis for IPL 2019 tournament
 
 ## Getting Started
-This project contains basic analysis for IPL 2019 tournament. Currently the project only has analysis for Batsmen and Bowlers, however I do plan to keep adding more as I continue playing more witht the data.
+This project contains basic analysis for IPL 2019 tournament. Currently the project only has analysis for Batsmen and Bowlers, however I do plan to keep adding more as I continue playing more with the data.
 
 ## Project Structure
 The CSV folder has two files.
